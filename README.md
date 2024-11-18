@@ -2,6 +2,7 @@
 
 snipe-spell adds native vim spell check support to ["leath-dub/snipe.nvim"](https://github.com/leath-dub/snipe.nvim) by providing a way to replace the current word with a suggestion from the spell checker.
 
+![output](https://github.com/user-attachments/assets/10c29395-ec60-4595-9f32-c6098ae45fec)
 
 ## features
 
